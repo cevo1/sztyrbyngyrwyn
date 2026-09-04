@@ -26,4 +26,4 @@ Contact: <add your email here>
 ## Technical
 
 - Authorisation: OAuth 2.0
-- User-Agent: `Sztyrbyngyrwyn/1.0.0 (https://github.com/cevo1/sztyrbyngyrwyn)`
+- User-Agent: `Sztyrbyngyrwyn/1.0.0 (+https://github.com/cevo1/sztyrbyngyrwyn)`
